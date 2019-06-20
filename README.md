@@ -4,12 +4,18 @@ A basic shell written in c.
 
 ## Features
 
-Support builtin commands: cd, help, exit, sheep.
+Supported builtin commands: cd, help, exit, sheep.
 
-## Usage
+## build
 ```bash
 gcc simple_shell.c -o simple_shell
 ```
+
+## Run
+```bash
+./simple_shell
+```
+
 ## License
 
 MIT
